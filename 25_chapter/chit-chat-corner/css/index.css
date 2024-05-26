@@ -1,0 +1,42 @@
+body {
+    background-color: #ffe8dd;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 4px double #ac5689;
+    padding: 10px 10px 10px 10px;
+    font-family: sans-serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+header {
+    padding-left: 87px;
+
+}
+
+footer {
+    padding-left: 15px;
+}
+
+nav ul li {
+    display: inline;
+    padding: 5px 10px 5px 10px;
+}
+
+nav ul li a {
+
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav {
+    background-color: #ffbeba;
+    margin: 10px 10px 0px 10px;
+}
+
+nav ul {
+    margin: 0px;
+    padding: 5px 0px 5px 0px;
+}

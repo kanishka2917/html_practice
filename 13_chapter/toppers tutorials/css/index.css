@@ -1,0 +1,22 @@
+body {
+    border: 4px double #379a33;
+    padding: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 20px;
+    font-family: sans-serifs;
+    background-color: lavender;
+}
+
+p {
+    color: maroon;
+}
+
+h2,
+h3 {
+    font-family: serif;
+}
+
+h3 {
+    text-decoration: underline;
+}

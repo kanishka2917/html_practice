@@ -1,0 +1,87 @@
+body {
+    font-family: Verdana, Geneva, Arial, sans-serif;
+    border: 4px dashed black;
+    padding: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 20px;
+    background-color: #6cc191;
+}
+
+h1 {
+    font-size: 200%;
+    text-align: center;
+    color: #0c67b6;
+}
+
+h2 {
+    font-size: 150%;
+    text-decoration: underline;
+}
+
+h4 {
+    font-size: 110%;
+    font-weight: normal;
+}
+
+q {
+    font-style: italic;
+}
+
+#paratha_ingredients {
+    background: #9adab6 url(../images/ammu.jpg) no-repeat center;
+    width: 450px;
+    font-size: 21px;
+    float: left;
+    padding: 10px 0px 20px 15px;
+    margin: 0px 10px 10px 0px;
+}
+
+#mysore_rasam {
+    clear: both;
+}
+
+#paratha_preparation {
+    background: #9adab6 url(../images/cooker.jpg) no-repeat right;
+    font-size: 20.3px;
+    padding: 10px 0px 10px 10px;
+    margin: 0px 0px 10px 490px;
+}
+
+#rasam_ingredients {
+    background: #9adab6 url(../images/ammu.jpg) no-repeat center;
+    width: 450px;
+    font-size: 21px;
+    float: left;
+    padding: 10px 0px 54px 15px;
+    margin: 0px 10px 10px 0px;
+    line-height: 30px;
+}
+
+#maggie_pakoda {
+    clear: both;
+}
+
+#rasam_preparation {
+    background: #9adab6 url(../images/cooker.jpg) no-repeat right;
+    font-size: 20.3px;
+    padding: 10px 0px 5px 10px;
+    margin: 0px 0px 10px 490px;
+}
+
+#pakoda_ingredients {
+    background: #9adab6 url(../images/ammu.jpg) no-repeat center;
+    width: 450px;
+    font-size: 21px;
+    float: left;
+    padding: 10px 0px 52px 15px;
+    margin: 0px 10px 10px 0px;
+    line-height: 30px;
+}
+
+#pakoda_preparation {
+    background: #9adab6 url(../images/cooker.jpg) no-repeat right;
+    font-size: 20.3px;
+    padding: 10px 0px 10px 5px;
+    margin: 0px 0px 10px 490px;
+}

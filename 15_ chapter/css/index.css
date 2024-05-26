@@ -1,0 +1,29 @@
+body {
+    font-family: Verdana, Tohoma, Arial, sans-serif;
+    border: 4px dashed black;
+    padding: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 20px;
+    background-color: #96ccad;
+}
+
+h1 {
+    font-family: 'Merienda one', cursive;
+    font-size: 200%;
+    text-align: center;
+}
+
+h2 {
+    font-size: 150%;
+    text-decoration: underline;
+}
+
+h4 {
+    font-size: 110%;
+    font-weight: normal;
+}
+
+q {
+    font-style: italic;
+}
