@@ -1,0 +1,87 @@
+body {
+    border: 4px double #379a33;
+    padding: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 20px;
+    font-family: sans-serif;
+    background-color: #e5e5fa;
+    line-height: 40px;
+}
+
+h2,
+h3 {
+    font-family: serif;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+p.bright {
+    color: white;
+    font-size: 27px;
+    font-family: cursive;
+    border-style: dashed;
+    border-color: black;
+    border-width: 2px;
+    padding-left: 28px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    background-color: #426aaa;
+    margin-right: 680px;
+    margin-left: 20px;
+    background-image: url(../images/bright-sun.png);
+    background-repeat: no-repeat;
+
+}
+
+#founder {
+    border-width: thin;
+    border-style: solid;
+    padding: 20px;
+    line-height: 30px;
+    text-align: center;
+    width: 1000px;
+    margin-left: 80px;
+
+
+}
+
+#faculties {
+    border-width: thin;
+    border-style: solid;
+    padding: 20px;
+    line-height: 40px;
+    text-align: center;
+    width: 800px;
+    margin-left: 150px;
+    margin-top: 30px;
+
+}
+
+#faculties h4 {
+    color: #983e91;
+}
+
+.designation {
+    font-style: italic;
+
+}
+
+.name {
+    font-weight: bolder;
+}
+
+a:link {
+    color: #280ba3;
+}
+
+a:visited {
+    color: #275809;
+}
+
+a:hover {
+    color: #cc0a0a;
+}

@@ -1,0 +1,46 @@
+form {
+    display: table;
+    padding: 10px;
+    line-height: 50px;
+}
+
+div.tablerow {
+    display: table-row;
+}
+
+div.tablerow p {
+    display: table-cell;
+    vertical-align: top;
+    padding: 3px;
+}
+
+h1,
+h3 {
+    text-align: center;
+}
+
+form textarea {
+    width: 200px;
+    height: 30px;
+}
+
+
+
+div.tablerow p:first-child {
+    text-align: right;
+}
+
+#admission {
+    margin: 20px;
+    border: 1.5px dashed #7e7e7e;
+    width: 600px;
+    height: 850px;
+    background-color: #f2f2f2;
+    font-size: 20px;
+    position: absolute;
+    margin-left: 540px;
+}
+
+#footer {
+    margin-left: 150px;
+}
