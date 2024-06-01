@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Topper Tutorials</title>
+    <link rel="stylesheet" href="css/admission-form.css">
+</head>
+
+<body>
+    <div id="admission">
+        <h1>Admission Form</h1>
+        <h3>Fill out the form below & click "Apply" to apply</h3>
+        <form>
+            <div class="tablerow">
+                <p>Name of the Student:</p>
+                <p><input type="text" name="name of the student"></p>
+            </div>
+            <div class="tablerow">
+                <p>Gender:</p>
+                <p><input type="radio" name="gender" value="male">Male
+                    <input type="radio" name="gender" value="female">Female
+                </p>
+            </div>
+            <div class="tablerow">
+                <p>Date of Birth:</p>
+                <p><input type="date" name="date of birth"></p>
+            </div>
+            <div class="tablerow">
+                <p>Mobile:</p>
+                <p><input type="tel" name="mobile" value=""></p>
+            </div>
+            <div class="tablerow">
+                <p>Email:</p>
+                <p><input type="email" name="email" value=""></p>
+            </div>
+            <div class="tablerow">
+                <p>Address:</p>
+                <p><textarea type="text" name="address" value=""></textarea></p>
+            </div>
+            <div class="tablerow">
+                <p>Subjects:</p>
+                <p><select name="subjects">
+                        <option value="PCMB">PCMB</option>
+                        <option value="PCMC">PCMC</option>
+                        <option value="PCME">PCME</option>
+                    </select></p>
+            </div>
+            <div class="tablerow">
+                <p>Additional coaching:</p>
+                <p><input type="checkbox" name="course" value="cet">CET<br>
+                    <input type="checkbox" name="course" value="aieee">AIEEE<br>
+                    <input type="checkbox" name="course" value="comedk">COMEDK<br>
+                </p>
+            </div>
+            <div id="footer">
+                <p><input type="submit" value="Apply"> </p>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>
